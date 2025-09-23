@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\PR-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BF5FE-1355-4119-89ED-F84055BB9D61}|PR-2\\PR-2.vcxproj|D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\PR-2\\PR-2\\PR-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E22BF5FE-1355-4119-89ED-F84055BB9D61}|PR-2\\PR-2.vcxproj|solutionrelative:PR-2\\PR-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR-2.cpp",
+              "DocumentMoniker": "D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\PR-2\\PR-2\\PR-2.cpp",
+              "RelativeDocumentMoniker": "PR-2\\PR-2.cpp",
+              "ToolTip": "D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\PR-2\\PR-2\\PR-2.cpp",
+              "RelativeToolTip": "PR-2\\PR-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T19:50:00.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
