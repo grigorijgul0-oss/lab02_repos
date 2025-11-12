@@ -1,0 +1,3 @@
+﻿  pr-06.2(it).cpp
+D:\VisualStudio\Проекти\pr-06.2(it)\pr-06.2(it)\pr-06.2(it).cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr-06.2(it).vcxproj -> D:\VisualStudio\Проекти\pr-06.2(it)\x64\Debug\pr-06.2(it).exe

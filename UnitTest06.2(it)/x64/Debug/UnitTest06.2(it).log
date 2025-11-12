@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest06.2(it).cpp
+D:\VisualStudio\Проекти\pr-06.2(it)\pr-06.2(it)\pr-06.2(it).cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest06.2(it).cpp")
+  
+     Создается библиотека D:\VisualStudio\Проекти\pr-06.2(it)\x64\Debug\UnitTest06.2(it).lib и объект D:\VisualStudio\Проекти\pr-06.2(it)\x64\Debug\UnitTest06.2(it).exp
+  UnitTest06.2(it).vcxproj -> D:\VisualStudio\Проекти\pr-06.2(it)\x64\Debug\UnitTest06.2(it).dll

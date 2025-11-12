@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\pr-06.2(it)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11B07E34-1342-441F-8B3B-428091FA7C58}|pr-06.2(it)\\pr-06.2(it).vcxproj|D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\pr-06.2(it)\\pr-06.2(it)\\pr-06.2(it).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11B07E34-1342-441F-8B3B-428091FA7C58}|pr-06.2(it)\\pr-06.2(it).vcxproj|solutionrelative:pr-06.2(it)\\pr-06.2(it).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD591AE-69D0-9D7A-B6A9-58F2911E8414}|UnitTest06.2(it)\\UnitTest06.2(it).vcxproj|D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\pr-06.2(it)\\UnitTest06.2(it)\\UnitTest06.2(it).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFD591AE-69D0-9D7A-B6A9-58F2911E8414}|UnitTest06.2(it)\\UnitTest06.2(it).vcxproj|solutionrelative:UnitTest06.2(it)\\UnitTest06.2(it).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest06.2(it).cpp",
+              "DocumentMoniker": "D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\pr-06.2(it)\\UnitTest06.2(it)\\UnitTest06.2(it).cpp",
+              "RelativeDocumentMoniker": "UnitTest06.2(it)\\UnitTest06.2(it).cpp",
+              "ToolTip": "D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\pr-06.2(it)\\UnitTest06.2(it)\\UnitTest06.2(it).cpp",
+              "RelativeToolTip": "UnitTest06.2(it)\\UnitTest06.2(it).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T19:17:41.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr-06.2(it).cpp",
+              "DocumentMoniker": "D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\pr-06.2(it)\\pr-06.2(it)\\pr-06.2(it).cpp",
+              "RelativeDocumentMoniker": "pr-06.2(it)\\pr-06.2(it).cpp",
+              "ToolTip": "D:\\VisualStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\\pr-06.2(it)\\pr-06.2(it)\\pr-06.2(it).cpp",
+              "RelativeToolTip": "pr-06.2(it)\\pr-06.2(it).cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T19:10:50.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
